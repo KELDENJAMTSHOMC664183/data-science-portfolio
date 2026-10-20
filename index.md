@@ -33,18 +33,8 @@ Welcome to my data science portfolio! I specialize in social science data analys
 
 * **Visualization:**
 
-  ```
-  [ Happiness vs. Economic Growth (1972–2024) ]
+![Money vs Happiness Trend](images/f2_easterlin.png)
 
-   % Very Happy                GDP per Capita ($k)
-   40% |  *-*                                | $65k (2024)
-       |     \     *-*                       |
-   30% |---*- \---/---*-*-                   | $50k
-       |         \*       \                  |
-   20% |                   \--*--*--*        | $35k
-       |____________________________________| $25k (1972)
-        1972    1985    2000    2015   2024
-  ```
   *(Dual-axis analysis showing long-run GDP per capita expansion alongside declining subjective happiness trends over 35 GSS survey waves.)*
 
 * **Project Repository:** [CISC7204 - Money and Happiness in America](https://github.com/KELDENJAMTSHOMC664183/CISC7204)
