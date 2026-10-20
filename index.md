@@ -37,7 +37,7 @@ Welcome to my data science portfolio! I specialize in social science data analys
 
   *(Dual-axis analysis showing long-run GDP per capita expansion alongside declining subjective happiness trends over 35 GSS survey waves.)*
 
-* **Project Repository:** [CISC7204 - Money and Happiness in America](https://github.com/KELDENJAMTSHOMC664183/CISC7204)
+* **Project Repository:** [CISC7204 - Money and Happiness in America](https://github.com/KELDENJAMTSHOMC664183/data-science-project.git)
 * **Project Status:** `Completed`
 
 ---
