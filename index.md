@@ -15,7 +15,7 @@ Welcome to my data science portfolio! I specialize in social science data analys
 
 * **Programming & Tools:** Python (`pandas`, `NumPy`, `SciPy`, `statsmodels`), Jupyter Notebooks, Git/GitHub, `uv`
 * **Data Visualization:** `Matplotlib`, `Seaborn`, Interactive HTML/CSS Dashboards
-* **Statistical Analysis:** Hypothesis Testing (Chi-Square, ANOVA), Regression Analysis (OLS), Correlation Metrics (Spearman $\rho$, Kendall $\tau$), Odds Ratios & Confidence Intervals
+* **Statistical Analysis:** Hypothesis Testing (Chi-Square, ANOVA), Regression Analysis, Correlation Metrics (Spearman, Kendall), Odds Ratios & Confidence Intervals
 * **Data Engineering:** Survey Data Normalization, Missing Value Imputation, API Data Ingestion
 
 ---
